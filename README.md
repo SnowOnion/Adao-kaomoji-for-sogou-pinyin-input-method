@@ -1,6 +1,8 @@
 # Adao-kaomoji-for-sogou-pinyin-input-method
 
-![颜文字导入之后在搜狗拼音使用的样子](usage-Mac.png)
+1~3 步即可使用：\[略改 JSON 配置→]\[一键生成搜狗  `phrases.ini`→]在搜狗设置导入→开始像施放技能般输出颜文字 (＾o＾)ﾉ
+
+![导入颜文字之后，搜狗拼音用起来的样子](usage-Mac.png)
 
 本项目旨在
 
@@ -35,14 +37,18 @@
 
 
 
-Mac 版的配置和效果：
+Mac 版的配置位置和效果图：
 
 ![Mac 版的配置和效果](operation-Mac.png)
 
 ## TODO
 
-+ 一个颜文字对应多个自定义短语
-+ 描述文字拆成 tags（像 https://gelbooru.com）、颜文字标准化 ( ﾟ∀。)
++ 多输出目标
+  + 微软拼音？
+  + Rime
+  + 成为颜文字界的 pandoc？
++ 一个颜文字对应多个自定义短语？
++ 描述文字拆成 tags（像 https://gelbooru.com）、颜文字标准化 ( ﾟ∀。)？
 
 ## 相关工作
 
