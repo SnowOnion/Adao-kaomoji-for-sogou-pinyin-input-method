@@ -61,3 +61,10 @@ Mac 版的配置位置和效果图：
 + iBus-Anthy顔文字
     + Mort's collection of everyday use kaomojis
     + https://github.com/soimort/anthy-kaomoji
+
+More：
+
++ [颜文字 搜狗 site:adnmb1.com](https://www.google.com/search?&q=%E9%A2%9C%E6%96%87%E5%AD%97+%E6%90%9C%E7%8B%97+site:adnmb1.com&ie=UTF-8&oe=UTF-8)
+    + ad 前缀思路好！如 http://adnmb1.com/t/13882162 和 http://adnmb1.com/t/13572077
++ [颜文字 输入法 site:adnmb1.com](https://www.google.com/search?&q=%E9%A2%9C%E6%96%87%E5%AD%97+%E8%BE%93%E5%85%A5%E6%B3%95+site:adnmb1.com&ie=UTF-8&oe=UTF-8)
+
