@@ -48,7 +48,7 @@ Mac 版的配置位置和效果图：
   + Rime
   + 成为颜文字界的 pandoc？
 + 一个颜文字对应多个自定义短语？
-+ 描述文字拆成 tags（像 https://gelbooru.com）、颜文字标准化 ( ﾟ∀。)？
++ 描述文字拆成 tags（像 https://gelbooru.com ）、颜文字标准化 ( ﾟ∀。)？
 
 ## 相关工作
 
